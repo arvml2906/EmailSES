@@ -20,5 +20,4 @@ This project utilizes AWS services such as API Gateway, SQS, Lambda and SES in a
 
 - To allow the S3 static website to invoke the API Gateway, CORS needs to be enabled. Use https://docs.aws.amazon.com/apigateway/latest/developerguide/how-to-cors-console.html for more information.
 
-## Working:
-<video src="Inbox%20(6,606)%20-%20arvindrox.619@gmail.com%20-%20Gmail%20-%20Google%20Chrome%202023-07-18%2017-01-58.mp4" controls title="Title"></video>
+## Demo:
