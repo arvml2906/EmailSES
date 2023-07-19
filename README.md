@@ -21,3 +21,5 @@ This project utilizes AWS services such as API Gateway, SQS, Lambda and SES in a
 - To allow the S3 static website to invoke the API Gateway, CORS needs to be enabled. Use https://docs.aws.amazon.com/apigateway/latest/developerguide/how-to-cors-console.html for more information.
 
 ## Demo:
+
+https://github.com/arvml2906/EmailSES/assets/139321356/b44eabf1-5939-4818-8d9a-a9bedf6740c2
