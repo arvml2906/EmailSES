@@ -5,7 +5,7 @@ This project utilizes AWS services such as API Gateway, SQS, Lambda and SES in a
 
 **Architecture**:
 
-![Alt text](APIGateway_Arch.jpg)
+![Alt text](image-1.png)
 
 ## Implementation:
 - Set up AWS SES with the desired email address and note the SMTP host, username and password which will be used in the Lambda function code.
